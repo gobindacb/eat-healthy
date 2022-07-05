@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: justify;
+    font-weight: 1000;
+}
+
+p {
+    font-size: 15;
+}
+
+.pa {
+    display: flex;
+    margin-left: 10%;
+
+
+
+}
+
+.adiv img {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.adiv text {
+    margin-block-start: 50px;
+}
+
+.text-adiv {
+    color: gray;
+    text align: center;
+}
+
+.order-button {
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: radial-gradient(orange, white);
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: larger;
+    color: azure;
+    margin-top: 10px;
+}
+
+.b-div {
+    image-resolution: 190px;
+}
